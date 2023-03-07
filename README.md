@@ -8,10 +8,10 @@
   <a href="https://github.com/DiaSKaOs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiaSKaOs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiaSKaOs&layout=compact&langs_count=7&theme=tokyonight"/>
-    
-     ##Main Skills
-    
 </div>
+  
+   ### Main skills:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Dias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dias-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
@@ -21,8 +21,8 @@
   <img align="center" alt="Dias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##Networking
- 
+ ### Networking:
+  
 <div> 
   <a href="https://www.instagram.com/kdiasx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kauadias2901@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
